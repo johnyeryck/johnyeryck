@@ -58,7 +58,7 @@
 ### 💬 Connect with me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnyeryck)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnyeryck)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johny-eryck-oliveira-42966a316/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnyeryckdev@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=johnyeryck&label=Profile%20Views&color=1f6feb&style=flat-square" alt="profile views" />
