@@ -1,6 +1,8 @@
+<main style="border: 3px solid ; border-radius : 10px ; border-color : #6409f7 ; padding: 20px">
+    
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=johnyeryck&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20%26%20Coffee&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://imgs.search.brave.com/gRMjXbj3NLG06oiMezkqM6ToIuwoLN-PKIWzKbYySwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudmV4ZWxzLmNv/bS9tZWRpYS91c2Vy/cy8zLzE0NTU4OS9p/c29sYXRlZC9wcmV2/aWV3L2UyMjRmNTgx/NzI2OGQwYWY4MmNh/NzdkN2JjYzY0YTM3/LXhpY2FyYS1kZS1j/YWZlLnBuZw" width="30px"/>
 
 </div>
 
@@ -90,3 +92,5 @@ Other        █░░░░░░░░░░░░░░░░░░░   5%
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/></div>
+
+</main>
