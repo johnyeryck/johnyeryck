@@ -65,16 +65,6 @@ Other        █░░░░░░░░░░░░░░░░░░░   5%
 
 ---
 
-<div align="center">
-
-### 🌊 Contribution Wave
-
-<img src="https://raw.githubusercontent.com/johnyeryck/johnyeryck/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-*Commits comendo meus contributions desde 2020*
-
-</div>
-
 ---
 
 <div align="center">
