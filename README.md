@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## 💭 Desenvolvedor Fullstack | Amo o que faço!
+## 💭 Desenvolvedor // Construindo coisas legais
 
 *código • café • repeat*
 
